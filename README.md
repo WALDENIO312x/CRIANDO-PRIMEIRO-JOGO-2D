@@ -12,8 +12,8 @@ PC, Dispositivos moveis.
 
 ### História
 
-    Você foi mandado para um novo mundo e não sabe porque, mas vai descobrir que pode ter
-um papel muito grande nesse novo mundo, e tudo que quiser fazer vai te levar a esse destino
+Você foi mandado para um novo mundo e não sabe porque, mas vai descobrir que pode ter um
+papel muito grande nesse novo mundo, e tudo que quiser fazer vai te levar a esse destino
 ao qual você não sabe qual é.
 
 ### Gameplay
